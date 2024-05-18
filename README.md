@@ -1,10 +1,10 @@
 # Earth intruders - CUDA version
 
-This project is the first of two projects from the assignment "[ADVANCED PROGRAMMING PARADIGMS (781004)](https://www.uah.es/en/estudios/estudios-oficiales/grados/asignatura/Paradigmas-Avanzados-de-Programacion-781004/)" provided by the [University of Alcalá](https://www.uah.es/en/).
+This project is the first of two projects from the assignment "<a href = "https://www.uah.es/en/estudios/estudios-oficiales/grados/asignatura/Paradigmas-Avanzados-de-Programacion-781004/" target = "_blank">ADVANCED PROGRAMMING PARADIGMS (781004)</a>" provided by the <a target = "https://www.uah.es/en/" target = "_blank">University of Alcalá</a>.
 
-To see the second project click [here]().
+To see the second project click <a target = "_blank" href = "">here</a>.
 
-This game is inspired to the great classic of arcade games "[Space invaders](https://en.wikipedia.org/wiki/Space_Invaders)".
+This game is inspired to the great classic of arcade games "<a href = "https://en.wikipedia.org/wiki/Space_Invaders" target = "_blank">Space invaders</a>".
 
 In the original game the player controls a cannon and has to shoot the aliens before they reach the Earth. In this reinterpretation, instead, the player controls a spaceship and has to dodge the incoming aliens. The player is in the bottom row of the matrix and can only move left and right.
 
