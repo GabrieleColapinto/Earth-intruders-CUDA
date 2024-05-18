@@ -2,7 +2,7 @@
 
 This project is the first of two projects from the assignment "[ADVANCED PROGRAMMING PARADIGMS (781004)](https://www.uah.es/en/estudios/estudios-oficiales/grados/asignatura/Paradigmas-Avanzados-de-Programacion-781004/)" provided by the [University of Alcalá](https://www.uah.es/en/).
 
-To see the second project click [here]().
+To see the second project click [here](https://github.com/GabrieleColapinto/Earth-intruders-SCALA).
 
 This game is inspired to the great classic of arcade games "[Space invaders](https://en.wikipedia.org/wiki/Space_Invaders)".
 
