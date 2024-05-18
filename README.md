@@ -1,6 +1,6 @@
 # Earth intruders - CUDA version
 
-This project is the first of two projects from the assignment "<a href = "https://www.uah.es/en/estudios/estudios-oficiales/grados/asignatura/Paradigmas-Avanzados-de-Programacion-781004/" target = "_blank">ADVANCED PROGRAMMING PARADIGMS (781004)</a>" provided by the <a target = "https://www.uah.es/en/" target = "_blank">University of Alcalá</a>.
+This project is the first of two projects from the assignment "<a href = "https://www.uah.es/en/estudios/estudios-oficiales/grados/asignatura/Paradigmas-Avanzados-de-Programacion-781004/" target = "_blank">ADVANCED PROGRAMMING PARADIGMS (781004)</a>" provided by the <a href = "https://www.uah.es/en/" target = "_blank">University of Alcalá</a>.
 
 To see the second project click <a target = "_blank" href = "">here</a>.
 
