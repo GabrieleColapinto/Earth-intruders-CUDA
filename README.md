@@ -46,3 +46,12 @@ Throughout the game the ships can be reconverted according to the contents of th
 <dt><strong>Commander cloud generation</strong></dt>
 <dd>Commanders have a probability of 10% to generate a cloud in the surrounding empty cells. There is no need to have all the surrounding cells empty to activate the effect because it fills only the empty cells and does not overwrite the content of the filled cells.</dd>
 </dl>
+
+# Versions of the project
+- In the basic implementation of the project all the kernels are made to be used in one block. Of course, by doing so we need to consider that the number of threads we can use in the kernels is constrained by the number of threads a block of the video card can handle. For this reason, the number of rows is limited to 50 and the number of columns to 20.
+
+- In the intermediate version of the project the kernels which affect only one row are not changed and the kernels which affect more than one row do it in parallel. We achieve this parallelism referencing the rows of the matrix using the blocks and referencing the cells using the threads.
+
+- In the advanced version of the project kernels use the shared memory.
+
+For more information about the project consult the implementation details contained in the PDF file.
